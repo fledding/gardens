@@ -1,0 +1,1 @@
+Hello! Welcome to Instagiraffe, a webscraping utility for Instagram. In addition to Python 3, the modules Selenium, NetworkX, and Requests are required to use Instagiraffe. To begin, please run the file __init__.py.
